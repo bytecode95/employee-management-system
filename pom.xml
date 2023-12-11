@@ -77,7 +77,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.bytetalking.employe_management_systme/com.bytetalking.employe_management_systme.HelloApplication
+                                com.bytetalking.employe_management_systme/com.bytetalking.employe_management_systme.controllers.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

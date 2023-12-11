@@ -1,4 +1,4 @@
-package com.bytetalking.employe_management_systme;
+package com.bytetalking.employe_management_systme.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

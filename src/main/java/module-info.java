@@ -4,6 +4,6 @@ module com.bytetalking.employe_management_systme {
     requires java.sql;
 
 
-    opens com.bytetalking.employe_management_systme to javafx.fxml;
-    exports com.bytetalking.employe_management_systme;
+    exports com.bytetalking.employe_management_systme.controllers;
+    opens com.bytetalking.employe_management_systme.controllers to javafx.fxml;
 }
